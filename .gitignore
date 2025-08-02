@@ -12,6 +12,23 @@ target/
 *.iml
 *.ipr
 
+# Java compiled class files
+*.class
+
+# IntelliJ project files
+.idea/
+*.iml
+
+# Build output folder
+/out/
+
+# OS-specific junk files
+.DS_Store
+Thumbs.db
+
+# Optional: config file with DB credentials
+config.properties
+
 ### Eclipse ###
 .apt_generated
 .classpath
